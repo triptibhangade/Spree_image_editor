@@ -14,4 +14,11 @@ gem 'rails-controller-testing'
 gem 'rubocop', require: false
 gem 'rubocop-rspec', require: false
 
+#remoteipart - Rails jQuery File Uploads
+gem "remotipart"
+#mini_magick - mini replacement for RMagick
+gem "mini_magick" 
+#i18b-js - Translations on the Javascript
+gem "i18n-js"
+
 gemspec
